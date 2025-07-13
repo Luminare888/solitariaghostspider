@@ -19,6 +19,9 @@
   --smallcomic:url(https://i.imgur.com/FHKpZha.png);
 }
 
+body {
+  place-items: center;
+}
 
 @font-face { font-family: "Futura Display"; src: url(https://dl.dropboxusercontent.com/scl/fi/bea4jv7wxllbwyzz5ohne/Futura-Display-BQ-Regular.otf?rlkey=1jfmc4xp0evxne7wg5g0dvqma&st=l5slf877&dl=0); font-weight: 300; font-style: normal; }
 
